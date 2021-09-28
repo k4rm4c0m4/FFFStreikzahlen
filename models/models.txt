@@ -1,0 +1,1 @@
+Hier werden Datenbankmodelle und ähnliche Diagramme für die spätere Datenbank/Serverentwicklung gespeichert.
