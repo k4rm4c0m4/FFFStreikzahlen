@@ -1,2 +1,2 @@
 # FFFStreikzahlen
-Gti Repo für die FFF Streikzahlen Codebase und Notizen.
+Git Repo für die FFF Streikzahlen Codebase und Notizen.
